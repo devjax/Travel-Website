@@ -81,6 +81,9 @@ nav ul {
   justify-content: space-around;
   list-style: none;
 }
+nav li {
+  text-align: center;
+}
 #logo {
   flex: 2 1 40rem;
   font-family: "Pattaya", sans-serif;
