@@ -5,7 +5,7 @@ Link: https://travelysite.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/45901296/173515713-9839203d-2547-4e37-ae23-299d97322ddf.png)
 
-![image](https://user-images.githubusercontent.com/45901296/173516824-92e4d088-f31d-4194-8f15-d4623636ee82.png)
+![bandicam 2022-06-14 13-07-56-388](https://user-images.githubusercontent.com/45901296/173521177-767ef41c-7319-4a91-8917-500142c253b5.gif)
 
 ![image](https://user-images.githubusercontent.com/45901296/173517074-f634f6cb-c059-4a58-957b-07be42a3d76d.png)
 
